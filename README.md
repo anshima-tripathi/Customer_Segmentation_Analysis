@@ -101,25 +101,37 @@ customer-segment-analysis/
 ## 🧠 Methodology
 
 1️⃣ Data Collection – Gather customer demographics, purchase history, and behavioral data
+
 2️⃣ Data Preprocessing – Clean data, handle missing values, normalize features
+
 3️⃣ Feature Engineering – Create meaningful features for segmentation
+
 4️⃣ Clustering – Apply ML algorithms to identify customer segments
+
 5️⃣ Validation – Evaluate clusters using metrics like Silhouette Score
+
 6️⃣ Profiling – Characterize each segment based on insights
+
 7️⃣ Visualization – Build dashboards for business stakeholders
 
 ## 🔍 Key Insights
 
 💎 High-value loyal customers
+
 💸 Price-sensitive buyers
+
 🛒 Occasional purchasers
+
 ⚠️ At-risk customers (need retention efforts)
 
 ## 📊 Results
 
 ✅ Optimal number of customer clusters
+
 ✅ Detailed segment profiles
+
 ✅ Visual distribution of clusters
+
 ✅ Actionable marketing recommendations
 
 ## 🤝 Contributing
@@ -152,7 +164,9 @@ git commit -m 'Add some AmazingFeature'
 
 ```bash
 🔗 LinkedIn
-``` 
+```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/anshima-tripathi-70863221b)
+
 📧 Email: anshimatripathi2003@gmail.com
 
 🌐 Project Link: GitHub Repo
@@ -160,7 +174,9 @@ git commit -m 'Add some AmazingFeature'
 💖 Acknowledgments
 
 🙏 Thanks to all contributors and the data science community
+
 💡 Inspired by modern customer analytics practices
+
 🔬 Built with passion for data-driven decision-making
 
 ⭐ If you find this project helpful, please give it a star! 🌟
