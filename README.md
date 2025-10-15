@@ -46,3 +46,9 @@ Clone the repository ⤵️
 ```bash
 git clone https://github.com/yourusername/customer-segment-analysis.git
 cd customer-segment-analysis
+
+python -m venv venv
+source venv/bin/activate   # On Windows: venv\Scripts\activate
+
+pip install -r requirements.txt
+
