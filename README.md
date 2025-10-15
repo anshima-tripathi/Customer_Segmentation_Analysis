@@ -64,15 +64,18 @@ pip install -r requirements.txt
 ## 🧪 Usage
 
 1️⃣ Place your customer data inside the data/ directory
+
 2️⃣ Run the main analysis script:
 ```bash
 python main.py
 ```
 
 3️⃣ View results and reports inside the output/ directory
+
 4️⃣ Explore visualizations in the visualizations/ folder
 
 ## 🗂️ Project Structure
+```bash
 customer-segment-analysis/
 │
 ├── data/                   # 📁 Datasets (raw + processed)
@@ -93,6 +96,7 @@ customer-segment-analysis/
 ├── requirements.txt
 ├── main.py
 └── README.md
+```
 
 ## 🧠 Methodology
 
