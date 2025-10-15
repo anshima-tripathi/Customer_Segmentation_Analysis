@@ -162,9 +162,6 @@ git commit -m 'Add some AmazingFeature'
 
 👩‍💻 Author: Anshima Tripathi
 
-```bash
-🔗 LinkedIn
-```
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/anshima-tripathi-70863221b)
 
 📧 Email: anshimatripathi2003@gmail.com
