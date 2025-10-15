@@ -56,18 +56,18 @@ source venv/bin/activate   # On Windows: venv\Scripts\activate
 ```
 
 ## Install dependencies 📦
-
+```bash
 pip install -r requirements.txt
-
+```
 
 
 ## 🧪 Usage
 
 1️⃣ Place your customer data inside the data/ directory
 2️⃣ Run the main analysis script:
-
+```bash
 python main.py
-
+```
 
 3️⃣ View results and reports inside the output/ directory
 4️⃣ Explore visualizations in the visualizations/ folder
@@ -122,19 +122,19 @@ customer-segment-analysis/
 
 Contributions are welcome! 💬
 
-Steps to Contribute:
+## Steps to Contribute:
 
 Fork the repository
 
 Create your branch
-
+```bash
 git checkout -b feature/AmazingFeature
-
+```
 
 ## Commit your changes
-
+```bash
 git commit -m 'Add some AmazingFeature'
-
+```
 
 ## Push to GitHub and open a Pull Request 🎯
 
