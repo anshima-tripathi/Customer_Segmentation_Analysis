@@ -149,8 +149,10 @@ git commit -m 'Add some AmazingFeature'
 📬 Contact
 
 👩‍💻 Author: Anshima Tripathi
-🔗 LinkedIn
 
+```bash
+🔗 LinkedIn
+``` 
 📧 Email: anshimatripathi2003@gmail.com
 
 🌐 Project Link: GitHub Repo
